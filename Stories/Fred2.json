@@ -1,0 +1,1 @@
+﻿{"inkVersion":19,"root":[[["^Good job, now you should be able to hover down the cave. I'll meet you when you get out.","\n","ev","str","^Ok.","/str","/ev",{"*":".^.c-0","flg":20},{"c-0":["^ ","end","\n",{"->":"0.g-1"},{"#f":7}],"#f":7,"#n":"g-0"}],{"g-1":["done",{"#f":7}]}],"done",{"#f":3}],"listDefs":{}}

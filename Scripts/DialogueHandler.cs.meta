@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f899c2ebeba52fa44b070dc6c0f8b470
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - inkJSONAsset: {instanceID: 0}
+  - dialoguePanel: {fileID: 3083829608971166214, guid: 802a3ead30b066a449a3a1116abef70b,
+      type: 3}
+  - buttonPrefab: {fileID: 5692437946248682029, guid: 630339df6b3f43d4ebdadecd5722ff6a,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
